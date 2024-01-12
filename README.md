@@ -1,12 +1,14 @@
 # Monthly DACON Credit Card Fraud Deal Detection AI Competition
 
-Link: https://dacon.io/competitions/official/235930/codeshare/6002
+Competition Link: https://dacon.io/competitions/official/235930/overview/description
 
 My activities during Monthly DACON Credit Card Fraud Deal Detection AI Competition.
 
 월간 데이콘 신용카드 사기 거래 탐지 AI 경진대회에서 Private Score 1등 수상을 달성했습니다. 그 과정에서 작성된 코드를 여기에 업로드합니다.
 
-# Mehthod
+# What I did
+Korean Explaination Link: https://dacon.io/competitions/official/235930/codeshare/6002
+
 Isolation Forest: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html
 
 PaCMAP: https://github.com/YingfanWang/PaCMAP
