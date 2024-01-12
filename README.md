@@ -1,1 +1,3 @@
-# PatchTST_experiment
+# DACON Activities
+
+My activities during DACON competition.
